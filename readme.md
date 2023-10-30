@@ -22,6 +22,6 @@
 
 ~~全部~~部分截图：
 
-![1698648307486](image/readme/1698648307486.png)
+![点击来测](image/readme/eat1.png "点击来测")
 
-![1698648319645](image/readme/1698648319645.png)
+![烤鸭！](image/readme/eat2.png "吃什么？")
